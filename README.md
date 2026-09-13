@@ -36,7 +36,7 @@
 ## Tools
 
 - [Antlir](https://github.com/facebookincubator/antlir) - Reproducibly builds, tests, and runs operating system images with Buck2.
-- [autocargo](https://github.com/facebookexperimental/autocargo) - Generates Cargo.toml files from BUCK build files. Useful if BUCK files are source of truth internally
+- [autocargo](https://github.com/facebookexperimental/autocargo) - Generates Cargo.toml files from BUCK build files. Archived precursor to an internal-meta version of autocargo.
 - [Buck2 Change Detector](https://github.com/facebookincubator/buck2-change-detector) - Identifies build targets affected by a set of changed files.
 - [Buckle](https://github.com/benbrittain/buckle) - Version manager and launcher for Buck2.
 - [Install Buck2](https://github.com/dtolnay/install-buck2) - GitHub Action for installing a precompiled Buck2 binary.
