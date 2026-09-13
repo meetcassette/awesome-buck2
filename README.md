@@ -36,10 +36,11 @@
 ## Tools
 
 - [Antlir](https://github.com/facebookincubator/antlir) - Reproducibly builds, tests, and runs operating system images with Buck2.
+- [autocargo](https://github.com/facebookexperimental/autocargo) - Generates Cargo.toml files from BUCK build files. Useful if BUCK files are source of truth internally
 - [Buck2 Change Detector](https://github.com/facebookincubator/buck2-change-detector) - Identifies build targets affected by a set of changed files.
 - [Buckle](https://github.com/benbrittain/buckle) - Version manager and launcher for Buck2.
 - [Install Buck2](https://github.com/dtolnay/install-buck2) - GitHub Action for installing a precompiled Buck2 binary.
-- [Reindeer](https://github.com/facebookincubator/reindeer) - Generates Buck build rules from Rust crates.
+- [Reindeer](https://github.com/facebookincubator/reindeer) - Generates BUCK build files from Rust crates.
 - [Snowydeer](https://github.com/MercuryTechnologies/snowydeer) - Integrates Nix dependencies and closures with Buck2 builds.
 
 ## Projects
