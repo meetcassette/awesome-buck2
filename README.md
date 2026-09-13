@@ -54,7 +54,7 @@
 - [Build Systems a la Carte](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems-final.pdf) - Academic framework for understanding and comparing build systems.
 - [Buck2: Open-source Large-scale Build System](https://www.tweag.io/blog/2023-07-06-buck2/) - Overview of Buck2's architecture and initial open-source release.
 - [Integrating Nix and Buck2](https://www.tweag.io/blog/2025-07-31-buck2-nix/) - Approach to handling non-hermetic dependencies in local Buck2 builds with Nix.
-- [Awesome Buck2 by Si L.](https://github.com/sluongng/awesome-buck2#readme) - Earlier collection of Buck2 resources and open-source projects built by Meta.
+- [Awesome Buck2 by Son L.N.](https://github.com/sluongng/awesome-buck2#readme) - Earlier collection of Buck2 resources and open-source projects built by Meta.
 
 ## Community
 
